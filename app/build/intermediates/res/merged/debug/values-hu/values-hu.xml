@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="OpenEpisode">
+        <item>Honlap</item>
+        <item>Adás</item>
+    </string-array>
+    <string name="allshows">Minden műsor</string>
+    <string name="app_name">Jupiter Broadcasting</string>
+    <string name="audio">Hang</string>
+    <string name="donate">Adományok</string>
+    <string name="loading">Betöltés </string>
+    <string name="openepisodetitle">Szeretnél:</string>
+    <string name="opening">Megyitás </string>
+    <string name="pause">Szünet</string>
+    <string name="plaiyinglivestream">Élő adás lejátszása</string>
+    <string name="play">Lejátszás</string>
+    <string name="rss">RSS folyam</string>
+    <string name="video">Video</string>
+    <string name="whichstream">Melyik adás</string>
+    <string name="youtubefeed">Youtube folyam</string>
+</resources>

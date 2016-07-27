@@ -1,0 +1,294 @@
+[
+    {
+        "outputFile": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endLine": 8,
+                        "endColumn": 19,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 57,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 57,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endColumn": 57,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 39,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 39,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 47,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 47,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 47,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 659,
+                        "endColumn": 47,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 58,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 58,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 46,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 46,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 39,
+                    "endOffset": 562
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 39,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 567,
+                    "endColumn": 64,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 64,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 38,
+                    "endOffset": 666
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 38,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 671,
+                    "endColumn": 40,
+                    "endOffset": 707
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 40,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 712,
+                    "endColumn": 39,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 39,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 49,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 49,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 52,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "/run/media/jmintb/Storage/Sync/DesktopGithub/Jupiter-Broadcasting-Android-App1/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 765,
+                        "endColumn": 52,
+                        "endOffset": 813
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="OpenEpisode">
+        <item>Webbplats</item>
+        <item>Ström</item>
+    </string-array>
+    <string name="allshows">Alla shower</string>
+    <string name="app_name">Jupiter Broadcasting</string>
+    <string name="audio">Ljud</string>
+    <string name="donate">Donera</string>
+    <string name="loading">Laddar: </string>
+    <string name="openepisodetitle">Skulle du vilja:</string>
+    <string name="opening">Öppnar: </string>
+    <string name="pause">Pausa</string>
+    <string name="plaiyinglivestream">Spelar upp liveström</string>
+    <string name="play">Spela</string>
+    <string name="rss">RSS-flöde</string>
+    <string name="video">Video</string>
+    <string name="whichstream">Vilken ström:</string>
+    <string name="youtubefeed">Youtube-flöde</string>
+</resources>
